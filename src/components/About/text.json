@@ -1,0 +1,38 @@
+{
+  "jsonText": [
+    {
+      "introduction": "Welcome to SimpleBudget – the ultimate tool for managing your finances and staying on top of your spending and income!",
+      "intContent": "We understand how important it is to have control over your financial life, which is why we've developed a user-friendly and feature-rich app that will empower you to take charge of your money like never before."
+    },
+    {
+      "title": "At SimpleBudget, we believe that tracking your transactions should be effortless and insightful.",
+      "content": "Whether you're an individual, a small business owner, or simply someone who wants to gain better control over their finances, our app is designed to cater to your needs. With our intuitive interface, powerful features, and robust search capabilities, managing your financial data has never been easier."
+    },
+    {
+      "title": "Transaction Tracking",
+      "content": "Record your expenses and income effortlessly, even when you're offline! Our app allows you to add transactions with ease, providing fields to capture important details such as value, date, and comment. Stay organized by categorizing your transactions and gain valuable insights into your spending habits."
+    },
+    {
+      "title": "Advanced Search",
+      "content": "Our app takes transaction management to the next level with a comprehensive search feature. Easily locate specific transactions based on their value, date, or comment. Whether you're looking for a particular expense or trying to track down a specific income entry, our search functionality will save you time and effort."
+    },
+    {
+      "title": "Star Important Transactions",
+      "content": "Mark transactions as important and easily identify them in your transaction history. Whether it's a significant expense or an important income source, the star feature allows you to prioritize and highlight transactions that require special attention. Stay on top of your financial priorities with ease."
+    },
+    {
+      "title": "Analyze the data with Statistics",
+      "content": "One of the standout features of SimpleBudget is our intuitive Statistics page. Here, you can visualize your expenses and income through interactive charts. Gain a clear understanding of when your money is going the most and identify where you can make adjustments to achieve your financial goals."
+    },
+    {
+      "title": "We believe that managing your finances should be a seamless and enjoyable experience.",
+      "content": "Our app is designed with a user-centric approach, prioritizing simplicity, efficiency, and aesthetics. We want to make your financial journey not only productive but also visually appealing and engaging."
+    },
+    {
+      "content": "Our mission is to empower individuals like you to make sound financial decisions and achieve financial well-being."
+    },
+    {
+      "content": "Remember, your financial well-being is just a few taps away with SimpleBudget. Let's embark on this transformative journey together!"
+    }
+  ]
+}
